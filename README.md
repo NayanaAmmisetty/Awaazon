@@ -3,6 +3,8 @@
 > **Where Awaaz meets Amazon: Shopping that listens, even without the internet.**
 
 ---
+## 🎥 Prototype Video [https://youtu.be/eWIlom2QqOc]
+---
 
 ## 🚩 The Untapped Frontier
 
@@ -118,8 +120,5 @@ A **completely voice-operated**, **call-enabled**, and **offline-compatible** e-
 It's not just about e-commerce —  
 It’s about **voice**, **trust**, and **empowerment** delivered offline.
 
----
-
-## 🎥 Demo Video [https://youtu.be/eWIlom2QqOc]
 ---
 
