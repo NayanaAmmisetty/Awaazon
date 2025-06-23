@@ -4,6 +4,7 @@
 
 ---
 ## 🎥 Prototype Video [https://youtu.be/eWIlom2QqOc]
+## PPT [https://docs.google.com/presentation/d/1Wob2H690HjZ8mD7qPRu-oUi4D6cAXIDd/edit?usp=drivesdk&ouid=114617419247678996486&rtpof=true&sd=true]
 ---
 
 ## 🚩 The Untapped Frontier
@@ -31,11 +32,11 @@ A **completely voice-operated**, **call-enabled**, and **offline-compatible** e-
 - AI-recommended payment logic  
 - Secure voice authentication  
 - USSD-based offline Autopay  
-
+  
 ---
 
 ## 🧠 What Makes Awaazon Unique?
-
+## **USSD for Strong Security verification and IVR-DTMF based payments which works offline**
 ### 📞 Call-Based Shopping Flow
 - Tap “Call to Order” or receive a voice-triggered callback  
 - All shopping actions happen over voice calls — no typing required  
@@ -121,4 +122,8 @@ It's not just about e-commerce —
 It’s about **voice**, **trust**, and **empowerment** delivered offline.
 
 ---
-
+## Team : CrimsonForge
+- Nayana Ammisetty
+- Tanusha Musunuru
+- Pujitha Kolipakula
+- S.K.Tanusri
